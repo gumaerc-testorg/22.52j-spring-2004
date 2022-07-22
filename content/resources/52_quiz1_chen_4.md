@@ -5,6 +5,7 @@ file: /courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Quiz 1
 uid: 8492803e-a555-5d3c-489b-006849071945
 ---
 Quiz on statistical thermodynamics of complex liquids.
-

@@ -5,6 +5,7 @@ file: /courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 3
 uid: 0806f5a2-cc63-7284-5e40-1f47b6f4a628
 ---
 Problem set on statistical thermodynamics of complex liquids.
-
