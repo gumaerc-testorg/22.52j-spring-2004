@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz on statistical thermodynamics of complex liquids.
-file: /ol-ocw-studio-app/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/ae8caa290af9878180cfad1fb4e43b24_52_quiz_2_chen_4.pdf
+file: /courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/ae8caa290af9878180cfad1fb4e43b24_52_quiz_2_chen_4.pdf
 file_size: 34639
 file_type: application/pdf
 learning_resource_types:
