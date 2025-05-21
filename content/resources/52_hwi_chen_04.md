@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on statistical thermodynamics of complex liquids.
-file: /ol-ocw-studio-app/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/e8e747a80dd80bbcf92ed527935773af_52_hwi_chen_04.pdf
+file: /courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/e8e747a80dd80bbcf92ed527935773af_52_hwi_chen_04.pdf
 file_size: 121739
 file_type: application/pdf
 learning_resource_types:
